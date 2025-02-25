@@ -13,7 +13,7 @@ Welcome to **Vehicle-Insurance-MLOps**, an end-to-end machine learning operation
 - **AWS Integration** (S3, IAM, EC2, ECR) for model storage and CI/CD
 - **Containerization & Deployment** with Docker & GitHub Actions
 - **Self-hosted CI/CD Pipeline** on AWS EC2
-- **Web App Interface** for easy model interaction
+- **Web App Interface** for easy model interaction 
 
 ---
 
