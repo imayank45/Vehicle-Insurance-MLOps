@@ -145,4 +145,4 @@ Welcome to this MLOps project, designed to demonstrate a robust pipeline for man
 ---
 
 ## 💬 Connect
-If you found this project helpful or have any questions, feel free to reach out!
+📢 Connect with me for more insights on MLOps and ML deployment! 🚀
